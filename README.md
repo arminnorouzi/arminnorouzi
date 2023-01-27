@@ -5,7 +5,7 @@ As a machine learning engineer, I have a strong background in data engineering a
 
 Furthermore, I am passionate about teaching and content creation in the field of data and machine learning. I have developed and taught a Machine Learning course at the University of Alberta, and created 50+ practical examples for the students. Additionally, I have held two workshops with 120+ attendees, covering various topics in ML, computer vision, and transfer learning. I believe in the power of education and I enjoy sharing my knowledge with others. With my experience in data engineering, machine learning, and teaching, I am confident in my ability to help businesses make data-driven decisions and achieve their goals.
 
-<br>🔭 I’m currently working on developing a new feature of Skyjack BMS system using Machine Learning.<br>🌱 I’m currently learning MLOps.<br>👯 I’m looking to collaborate on a Machine Learning project, especially in the fields of Computer Vision or NLP.<br>💬 Ask me everything data-science related, and I'll happy to help you out. I love talking about this.<br>😄 Pronouns: He/His
+<br>🔭 I’m currently working on developing end-to-end machine learning model for Citco.<br>🌱 I’m currently learning MLOps.<br>👯 I’m looking to collaborate on a Machine Learning project, especially in the fields of Computer Vision and NLP.<br>💬 Ask me everything data-science related, and I'll happy to help you out. I love talking about this.<br>😄 Pronouns: He/His
 
 
 ## 🌐 Socials:
